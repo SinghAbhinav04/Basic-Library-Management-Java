@@ -7,9 +7,12 @@ A basic library management system that allows users to manage books, members, an
 
 ### Features:
 
-Add, update, and delete book records
-Register new members and manage member records
-Borrow and return books
+Add, update, and delete book records  
+
+Register new members and manage member records  
+
+Borrow and return books  
+
 Simple and user-friendly command-line interface  
 
 ### Technologies Used:
